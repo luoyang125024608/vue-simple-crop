@@ -1,0 +1,16 @@
+{
+  "name": "vue-simple-crop",
+  "version": "1.0.0",
+  "description": "vue图片裁剪,头像裁剪，crop, alloy-crop",
+  "main": "dist/index.js",
+  "directories": {
+    "src": "src",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "author": "luoyangyangyang",
+  "license": "MIT"
+}
