@@ -16,5 +16,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/luoyang125024608/vue-simple-crop.git"
+  },
+  "devDependencies": {
+    "alloyfinger": "^0.1.16"
   }
 }
